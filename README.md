@@ -225,7 +225,7 @@ graph TB
 
 ---
 
-## 📚 Documentation & Resources
+## 📚 Documentation & Resources (TBD)
 
 ### For Developers
 - **[Integration Guide](./docs/integration-guide.md)** - Step-by-step integration instructions
